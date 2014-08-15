@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D56D2187-B84D-427C-B4F1-6D7C96EB1891</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Friday-the-thirteen</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F3E76B5E-049C-4E68-8E34-65E5BE6424FE</key>
+		<string>https://github.com/amangrana/USACO.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Friday-the-thirteen/Friday-the-thirteen.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F3E76B5E-049C-4E68-8E34-65E5BE6424FE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/amangrana/USACO.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F3E76B5E-049C-4E68-8E34-65E5BE6424FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F3E76B5E-049C-4E68-8E34-65E5BE6424FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>USACO</string>
+		</dict>
+	</array>
+</dict>
+</plist>
